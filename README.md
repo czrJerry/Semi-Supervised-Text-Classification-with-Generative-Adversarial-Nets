@@ -9,7 +9,7 @@ Previous research has proposed GAN-BERT, which combined Generative Adversarial N
 For each model, we test it on three datasets: Amazon Review dataset, Yelp Review dataset and Financial Review dataset, with different proportion of annotated examples. Experiment result shows GAN-BERT and GAN-GPT2 only need less annotated examples to get a good performance. Compared to the result of BERT and GPT training with all annotated examples, GAN-BERT and GAN-GPT2 only need 5%-10% annotated examples to get the same performance. Especially, our result shows GAN could largely improve GPT2’s performance when facing less than 10% annotated data.
 
 # Model
-![My Image](my-image.jpg)
+![My Image](imagefolder/Amazon_Result.jpg)
 
 
 # Result
